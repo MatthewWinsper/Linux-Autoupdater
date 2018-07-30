@@ -6,7 +6,7 @@ Basic BASH shell script to auto update and upgrade Kali Linux.
 Created for myself to streamline fresh VM installs.
 
 
-####Installation Instructions
+#### Installation Instructions
 1. Select directory
 
 `cd ~/`
