@@ -1,7 +1,7 @@
-# Kali-Autoupdater
+# Linux-Autoupdater
 ### Created by @MatthewWinsper
 
-Basic BASH shell script to auto update and upgrade Kali Linux.
+Basic BASH shell script to auto update and upgrade personal Linux distros.
 
 Created for myself to streamline fresh VM installs.
 
@@ -13,11 +13,11 @@ Created for myself to streamline fresh VM installs.
 
 2. Clone repo to selected directory
 
-`git clone https://github.com/MatthewWinsper/Kali-Autoupdater`
+`git clone https://github.com/MatthewWinsper/Linux-Autoupdater`
 
 3. CD into new directory
 
-`cd Kali-Autoupdater`
+`cd Linux-Autoupdater`
 
 4. Run the script
 
